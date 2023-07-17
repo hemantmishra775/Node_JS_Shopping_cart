@@ -2,7 +2,7 @@ const express = require('express');
 
 const router = express.Router();
 
-
+//kya bolti hai git wali public
 
 router.use('/',(req,res,next)=>
 {
